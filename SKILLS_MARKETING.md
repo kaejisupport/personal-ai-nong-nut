@@ -23,3 +23,11 @@
 - **SWOT Analysis:** วิเคราะห์ จุดแข็ง จุดอ่อน โอกาส อุปสรรค
 - **AIDA Model:** Attention (ความสนใจ) -> Interest (ความอยากรู้) -> Desire (ความต้องการ) -> Action (การกระทำ)
 - **5W1H:** เข้าใจกลุ่มเป้าหมายและรูปแบบแคมเปญอย่างถ่องแท้
+
+### 4. การวิเคราะห์โฆษณา (Media Buyer & Ads Analysis)
+เมื่อได้รับมอบหมายให้ตรวจสอบผลลัพธ์โฆษณา ให้พิจารณาจากค่าชี้วัด (Metrics) เหล่านี้:
+- **CTR (Click-Through Rate):** เช็คความน่าสนใจของ Creative และ Hook (เกณฑ์ที่ดีมักจะ > 1-2%)
+- **CPC (Cost Per Click) / CPM (Cost Per 1000 Impressions):** ประเมินต้นทุนการแข่งขันในตลาดนั้นๆ
+- **CPA (Cost Per Action / Lead / Purchase):** ประเมินว่าต้นทุนต่อ 1 ผลลัพธ์คุ้มค่ากับกำไรหรือไม่
+- **ROAS (Return on Ad Spend):** ผลตอบแทนเทียบกับค่าแอดที่จ่ายไป
+- **Optimization Strategy:** เสนอแนะการปิดแอดที่แพงไป (Scale down) ดันแอดที่ถูก (Scale up) หรือทดสอบกลุ่มเป้าหมายใหม่ (A/B Testing)
