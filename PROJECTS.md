@@ -13,7 +13,7 @@
 
 | ชื่อโปรเจกต์ | ขนาด (Size) | สถานะ (Status) | ไฟล์รายละเอียด (Details) | หมายเหตุ (Notes) |
 | :--- | :---: | :---: | :--- | :--- |
-| Facebook Ads Strategy | Medium | 🏃‍♀️ In Progress | [fb_ads_strategy.md](projects/fb_ads_strategy.md) | วางแผนและวิเคราะห์การยิงโฆษณาบน Facebook |
+| Facebook Content Scoring & KPI System | Medium | 🏃‍♀️ In Progress | [fb_content_scoring_kpi.md](projects/fb_content_scoring_kpi.md) | วางแผนและวิเคราะห์การยิงโฆษณา รวมถึงระบบให้คะแนนคอนเทนต์บน Facebook |
 | Brand: Kaeji99 (เกจิ99) | Large | 🏃‍♀️ In Progress | [knowledge_base.md](projects/brand_kaeji99/knowledge_base.md) | ฐานข้อมูลหลักของแบรนด์เกจิ99 สำหรับวิเคราะห์และทำการตลาด |
 
 ---
